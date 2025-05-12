@@ -1,6 +1,6 @@
 {
   "name": "@profullstack/websocket-client",
-  "version": "0.2.12",
+  "version": "0.2.15",
   "description": "Robust WebSocket client with connection management, reconnection logic, and message handling",
   "type": "module",
   "main": "dist/index.js",
